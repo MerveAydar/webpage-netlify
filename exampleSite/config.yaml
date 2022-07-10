@@ -108,9 +108,9 @@ params:
         - icon: fab fa-instagram
           url: https://www.instagram.com/uzm.psk.merveaydar/
         - icon: fab fa-twitter
-          url: https://twitter.com/merveeaydar
+          url: https://twitter.com
         - icon: fab fa-github
-          url: https://github.com/merveeaydar
+          url: https://github.com/merveaydar
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -118,22 +118,17 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "Hakkımda"
     image: /images/merve_cool.jpeg
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Psikologum. Beykent'te okudum. Arel'de okudum. Süpervizyon yaptım. 
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "ilgilendiğim psiko şeysileri"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "destekleyici terapi"
+        - "destekleyici"
+        - "terapi"
 
   # Experience
   experience:
@@ -299,7 +294,7 @@ params:
     content: |- 
       Bana her zaman aşağıdaki formu doldurarak ya da mail adresimden ulaşabilirsiniz.
       
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBVHtsE7UFSdfB7eezSCeGDW-5o1iRfkG1SXcXTcY_vBI9AA/viewform?embedded=true" width="640" height="766" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBVHtsE7UFSdfB7eezSCeGDW-5o1iRfkG1SXcXTcY_vBI9AA/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
       
     email: merveeaydar@gmail.com
     btnName: Mail Atabilirsiniz
