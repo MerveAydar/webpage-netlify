@@ -17,7 +17,7 @@ Menus:
     - identifier: blog
       name: Yazılar
       title: Yazılar
-      url: /yazi
+      url: /yazı
       weight: 1
     
     - identifier: terapi
