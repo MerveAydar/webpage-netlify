@@ -2,7 +2,7 @@ baseURL: "https://merveaydar.netlify.app"
 languageCode: "en-us"
 title: "Merve Aydar"
 theme: hugo-profile
-
+pluralizelisttitles: false
 Paginate: 3
 disqusShortname: #gurusabarish
 googleAnalytics: G-V0SVR4S6DQ
