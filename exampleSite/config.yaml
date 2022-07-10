@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://merveaydar.netlify.app"
 languageCode: "en-us"
 title: "Merve Aydar"
 theme: hugo-profile
@@ -20,10 +20,10 @@ Menus:
       url: /yazi
       weight: 1
     
-    - identifier: gallery
-      name: Galeri
-      title: Galerim
-      url: /galleri
+    - identifier: terapi
+      name: Terapi
+      title: Terapi Hakkında Bilgiler
+      url: /terapi
       weight: 2
 
     #Dropdown menu
@@ -48,7 +48,7 @@ params:
   title: "Klinik Psikolog Merve Aydar"
   description: Klinik Psikolog Merve Aydar
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/icon.png"
+  favicon: /images/icon.png
 
   theme:
     disableThemeToggle: false
@@ -119,7 +119,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: /images/merve_cool.jpeg
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
