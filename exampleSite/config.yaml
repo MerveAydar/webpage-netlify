@@ -294,7 +294,7 @@ params:
     content: |- 
       Bana her zaman aşağıdaki formu doldurarak ya da mail adresimden ulaşabilirsiniz.
       
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBVHtsE7UFSdfB7eezSCeGDW-5o1iRfkG1SXcXTcY_vBI9AA/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBVHtsE7UFSdfB7eezSCeGDW-5o1iRfkG1SXcXTcY_vBI9AA/viewform?embedded=true" width="800" height="1000" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
       
     email: merveeaydar@gmail.com
     btnName: Mail Atabilirsiniz
