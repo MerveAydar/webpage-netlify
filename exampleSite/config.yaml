@@ -186,7 +186,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # index: true
     items:
       - title: "Master of Business Administration"
@@ -228,7 +228,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     items:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
@@ -246,7 +246,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
