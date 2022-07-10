@@ -20,29 +20,35 @@ Menus:
       url: /yazı
       weight: 1
     
-    - identifier: terapi
-      name: Terapi
-      title: Terapi Hakkında Bilgiler
-      url: /terapi
-      weight: 2
-
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
-    # - identifier: dropdown2
-    #   title: example dropdown 2
-    #   name: example 2
-    #   url: /#
-    #   parent: dropdown
+    # - identifier: terapi
+    #   name: Terapi
+    #   title: Terapi Hakkında Bilgiler
+    #   url: /terapi
     #   weight: 2
+
+    # Dropdown menu
+    - identifier: dropdown
+      title: Terapi
+      name: Terapi
+      weight: 3
+    - identifier: dropdown1
+      title: Terapiye Başlama
+      name: Terapiye Başlama
+      url: /terapiye-baslama
+      parent: dropdown
+      weight: 1
+    - identifier: dropdown2
+      title: Gizlilik
+      name: Gizlilik
+      url: /gizlilik
+      parent: dropdown
+      weight: 2
+    - identifier: dropdown3
+      title: Onam
+      name: Onam
+      url: /onam
+      parent: dropdown
+      weight: 3
 
 params:
   title: "Klinik Psikolog Merve Aydar"
@@ -134,36 +140,41 @@ params:
   experience:
     enable: true
     items:
-      - job: "Software Developer"
-        company: "Mavi Hospital"
-        companyUrl: "https://example.com"
-        date: "2021"
+      - job: "Klinik Psikolog"
+        company: "Bi' Şey Seans"
+        companyUrl: "https://biseyseans.com/"
+        date: "2022 - Halen"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://biseyseans.com/ogrenci-seans-destek-projesi/"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: Gönüllülük kapsamında öğrencilere yardım amaçlı düşük ücretli terapi hizmeti.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          "Öğrenci Seans Destek" Projesi kapsamında dezavantajlı öğrencilere uygun fiyatta terapi hizmeti sağlamaktayım. Proje kapsamında hem online hem de yüzyüze danışan almaktayım.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      - job: "Stajyer Psikolog"
+        company: "Mavi Hospital"
+        companyUrl: "https://mavihospital.com/"
+        date: "2021"
+        info:
+          enable: true
+          content: Zorunlu staj dahilinde 2 aylık bir süreçte tamamladım.
+        featuredLink:
+          enable: false
+        content: |
+          Akhisar, Manisa'da bulunan özel Mavi Hospital'de stajımı tamamladım.
 
-      - job: "Junior Software Developer"
+      - job: "Stajyer Psikolog"
         company: "Apamer"
-        companyUrl: "https://example.com"
+        companyUrl: "http://www.apamer.com.tr/"
         date: "2019 - 2020"
         info:
           enable: false
         featuredLink:
-          enable: true
-          url: "https://example.com"
+          enable: false
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Beylikdüzü, İstanbul'da APAMER'de çalıştım.
 
       - job: "Stajyer Psikolog"
         company: "Fransız Lape Hastanesi"
@@ -172,9 +183,9 @@ params:
         featuredLink:
           enable: true
           name: "Deneyimlerim"
-          url: /yazi/lape
+          url: /yazı/lape
         content: |
-          Lape Lape LApe LApe 
+          Lape Lape LApe LApe.
 
           - Kapalı güzel iyi
           - Şişli güzel iyi

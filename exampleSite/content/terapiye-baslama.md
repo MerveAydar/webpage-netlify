@@ -37,11 +37,3 @@ Terapistler, terapiyi bırakan danışanlarına darılmazlar. Herkesin terapi s�
 - **Yeni bir terapiste her şeyi en baştan anlatmak çok zor geliyor.**
 
 Her Danışan-Danışman ilişkisi kendisine hastır. Bir önceki terapi sürecinizde anlattıklarınızın hepsini aynı sırayla tekrar anlatmak zorunda değilsiniz. Yeni terapi sürecinizi eski terapi sürecinizin üstüne inşaa etmek zorunda değilsiniz. Tamamen yeni bir süreç olarak görmelisiniz.
-
-## Gizlilik
-
-Belki de en önemli hususlardan biri gizlilik. Danışmanlar hiçbir koşulda danışanların kendileri ile paylaştıkları bilgileri başkaları ile paylaşmaz.  
-
-## Onam
-
-Terapi sürecinize başlamadan önce bazı belgeler imzalanmalıdır. Mesela onam formu gibi.
