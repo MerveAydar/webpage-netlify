@@ -14,11 +14,11 @@ markup:
 
 Menus:
   main:
-    # - identifier: blog
-    #   name: Yazılar
-    #   title: Yazılar
-    #   url: /yazı
-    #   weight: 1
+    - identifier: blog
+      name: Yazılar
+      title: Yazılar
+      url: /yazı
+      weight: 1
     
     # - identifier: terapi
     #   name: Terapi
