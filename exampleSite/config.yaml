@@ -14,11 +14,11 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Yazılar
-      title: Yazılar
-      url: /yazı
-      weight: 1
+    # - identifier: blog
+    #   name: Yazılar
+    #   title: Yazılar
+    #   url: /yazı
+    #   weight: 1
     
     # - identifier: terapi
     #   name: Terapi
@@ -26,29 +26,29 @@ Menus:
     #   url: /terapi
     #   weight: 2
 
-    # Dropdown menu
-    - identifier: dropdown
-      title: Terapi
-      name: Terapi
-      weight: 3
-    - identifier: dropdown1
-      title: Terapiye Başlama
-      name: Terapiye Başlama
-      url: /terapiye-baslama
-      parent: dropdown
-      weight: 1
-    - identifier: dropdown2
-      title: Gizlilik
-      name: Gizlilik
-      url: /gizlilik
-      parent: dropdown
-      weight: 2
-    - identifier: dropdown3
-      title: Onam
-      name: Onam
-      url: /onam
-      parent: dropdown
-      weight: 3
+    # # Dropdown menu
+    # - identifier: dropdown
+    #   title: Terapi
+    #   name: Terapi
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: Terapiye Başlama
+    #   name: Terapiye Başlama
+    #   url: /terapiye-baslama
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: Gizlilik
+    #   name: Gizlilik
+    #   url: /gizlilik
+    #   parent: dropdown
+    #   weight: 2
+    # - identifier: dropdown3
+    #   title: Onam
+    #   name: Onam
+    #   url: /onam
+    #   parent: dropdown
+    #   weight: 3
 
 params:
   title: "Klinik Psikolog Merve Aydar"
