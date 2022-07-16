@@ -69,7 +69,7 @@ params:
   #color preference
   color:
     #textColor: 
-    secondaryTextColor: #9A90AB
+    secondaryTextColor: "#9A90AB"
     #backgroundColor:
     #secondaryBackgroundColor:
     #primaryColor:
