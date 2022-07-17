@@ -131,7 +131,7 @@ params:
     content: |-
       Beykent Üniversitesi Psikoloji bölümünden 2020 yılında mezun oldum. Aynı sene Arel Üniversitesi Klinik Psikoloji Yüksek Lisans programına kabul aldım ve Yıldız Teknik Üniversitesi’nden Aile Danışmanlığı eğitimimi aldım. 2022 Şubat ayında 3.53 ortalama ile Klinik Psikoloji Yüksek Lisansımı tamamladım. Uzmanlık eğitimim boyunca Destekleyici-Psikodinamik ekoller ağırlıklı olarak 3 dönem süpervizyon aldım. Fransız Lape Hastanesi, Aktüel Psikolojik Araştırmalar Merkezi ve Mavi Hospital’de stajlarımı yaptım.  İki sene boyunca seans ve süpervizyonlarımın kazandırdığı terapistlik deneyimi, aktif dinleme ve destekleyici biçimde problem çözme konusunda kendimi geliştirmeme yardımcı oldu. Ek olarak danışanlarımın kişisel gelişimi ve takibi konularında da deneyim kazandım. Yetişkinlerle destekleyici-psikodinamik temelli bir klinik yaklaşımı benimseyerek terapi çalışmalarımı sürdürmekte olup kendi terapi sürecimden de geçmekteyim. 
     skills:
-      enable: true
+      enable: false
       title: "ilgilendiğim psiko şeysileri"
       items:
         - "destekleyici terapi"
@@ -143,7 +143,8 @@ params:
     enable: true
     items:
       - job: "Klinik Psikolog"
-        company: "Bi' Şey Seans"
+        company: |
+          Bi' Şey Seans
         companyUrl: "https://biseyseans.com/"
         date: "2022 - Halen"
         featuredLink:
@@ -170,7 +171,7 @@ params:
           - Klinik psikoloğun terapi seanslarında bulunduğu rolü, kullandığı yöntem ve teknikleri gözlemledim.
 
       - job: "Stajyer Psikolog"
-        company: "Apamer"
+        company: "Aktüel Psikolojik Araştırmalar Merkezi"
         companyUrl: "http://www.apamer.com.tr/"
         date: "2019 - 2020"
         info:
@@ -193,8 +194,6 @@ params:
           name: "Deneyimlerim"
           url: /yazı/lape
         content: |
-          Lape Lape LApe LApe.
-
           - Müzik terapisi ve sanat terapisi atölyelerinde hastaları gözlemledim ve bu atölyelerde etkin rol aldım.
           - Günaydın toplantılarıyla uzman psikologlar eşliğinde yatan hastaların durumları hakkında bilgi edindim. 
           - Kapalı, geriatri ve amatem servisinde pek çok hasta ile iletişime geçip onlar ile çeşitli aktiviteler yaptım.
