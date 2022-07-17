@@ -113,7 +113,7 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-instagram
           url: https://www.instagram.com/uzm.psk.merveaydar/
-        - icon: fab fa-envelope
+        - icon: fa fa-envelope
           url: mailto:merveeaydar@gmail.com
         # - icon: fab fa-twitter
         #   url: https://twitter.com
