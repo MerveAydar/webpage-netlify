@@ -143,8 +143,7 @@ params:
     enable: true
     items:
       - job: "Klinik Psikolog"
-        company: |
-          Bi' Şey Seans
+        company: "Bi Şey Seans"
         companyUrl: "https://biseyseans.com/"
         date: "2022 - Halen"
         featuredLink:
