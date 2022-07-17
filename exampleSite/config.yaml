@@ -153,7 +153,7 @@ params:
           enable: true
           content: Gönüllülük kapsamında öğrencilere yardım amaçlı düşük ücretli terapi hizmeti.
         content: |
-          "Öğrenci Seans Destek" Projesi kapsamında dezavantajlı öğrencilere uygun fiyatta terapi hizmeti sağlamaktayım. Proje kapsamında hem online hem de yüzyüze danışan almaktayım.
+          "Öğrenci Seans Destek" Projesi kapsamında öğrencilere uygun fiyatta terapi hizmeti sağlamaktayım. Proje kapsamında hem online hem de yüzyüze danışan almaktayım.
 
       - job: "Stajyer Psikolog"
         company: "Mavi Hospital"
