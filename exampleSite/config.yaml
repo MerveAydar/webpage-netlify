@@ -1,4 +1,4 @@
-baseURL: "https://merveaydar.netlify.app"
+baseURL: "https://www.merveaydar.com"
 languageCode: "en-us"
 title: "Merve Aydar"
 theme: hugo-profile
@@ -67,9 +67,9 @@ params:
   #   textAlign: right # default: left
 
   #color preference
-  color:
+  #color:
     #textColor: 
-    secondaryTextColor: "#9A90AB"
+    #secondaryTextColor: "#9A90AB"
     #backgroundColor:
     #secondaryBackgroundColor:
     #primaryColor:
@@ -108,15 +108,17 @@ params:
     button:
       enable: true
       name: "Özgeçmiş"
-      url: /cv.pdf
+      url: /UzmPskMerveAydar_Ozgecmis.pdf
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-instagram
           url: https://www.instagram.com/uzm.psk.merveaydar/
-        - icon: fab fa-twitter
-          url: https://twitter.com
-        - icon: fab fa-github
-          url: https://github.com/merveaydar
+        - icon: fab fa-envelope
+          url: mailto:merveeaydar@gmail.com
+        # - icon: fab fa-twitter
+        #   url: https://twitter.com
+        # - icon: fab fa-github
+        #   url: https://github.com/merveaydar
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -127,7 +129,7 @@ params:
     title: "Hakkımda"
     image: /images/merve_cool.jpeg
     content: |-
-      Psikologum. Beykent'te okudum. Arel'de okudum. Süpervizyon yaptım. 
+      Beykent Üniversitesi Psikoloji bölümünden 2020 yılında mezun oldum. Aynı sene Arel Üniversitesi Klinik Psikoloji Yüksek Lisans programına kabul aldım ve Yıldız Teknik Üniversitesi’nden Aile Danışmanlığı eğitimimi aldım. 2022 Şubat ayında 3.53 ortalama ile Klinik Psikoloji Yüksek Lisansımı tamamladım. Uzmanlık eğitimim boyunca Destekleyici-Psikodinamik ekoller ağırlıklı olarak 3 dönem süpervizyon aldım. Fransız Lape Hastanesi, Aktüel Psikolojik Araştırmalar Merkezi ve Mavi Hospital’de stajlarımı yaptım.  İki sene boyunca seans ve süpervizyonlarımın kazandırdığı terapistlik deneyimi, aktif dinleme ve destekleyici biçimde problem çözme konusunda kendimi geliştirmeme yardımcı oldu. Ek olarak danışanlarımın kişisel gelişimi ve takibi konularında da deneyim kazandım. Yetişkinlerle destekleyici-psikodinamik temelli bir klinik yaklaşımı benimseyerek terapi çalışmalarımı sürdürmekte olup kendi terapi sürecimden de geçmekteyim. 
     skills:
       enable: true
       title: "ilgilendiğim psiko şeysileri"
@@ -165,6 +167,8 @@ params:
         content: |
           Akhisar, Manisa'da bulunan özel Mavi Hospital'de stajımı tamamladım.
 
+          - Klinik psikoloğun terapi seanslarında bulunduğu rolü, kullandığı yöntem ve teknikleri gözlemledim.
+
       - job: "Stajyer Psikolog"
         company: "Apamer"
         companyUrl: "http://www.apamer.com.tr/"
@@ -174,21 +178,26 @@ params:
         featuredLink:
           enable: false
         content: |
-          Beylikdüzü, İstanbul'da APAMER'de çalıştım.
+          - Her yaş grubundan danışanlar ile ön görüşme, gözlem ve vaka analizleri yapma fırsatı buldum. 
+          - Farklı ekollerden uzmanlarla vaka tartışmaları yaptım. Her ekolün nasıl çalıştığı ile ilgili bilgiler edindim.
+          - Terapi süreçlerini planlama ve formülasyon oluşturma konusunda deneyim sahibi oldum.
+          - Psikolojik test ve ölçeklerin uygulanmasına yardımcı olarak ve gözlemleyerek öğrendim.
+
 
       - job: "Stajyer Psikolog"
         company: "Fransız Lape Hastanesi"
         companyUrl: "https://www.fransizlape.com/"
         date: "2019"
         featuredLink:
-          enable: true
+          enable: false
           name: "Deneyimlerim"
           url: /yazı/lape
         content: |
           Lape Lape LApe LApe.
 
-          - Kapalı güzel iyi
-          - Şişli güzel iyi
+          - Müzik terapisi ve sanat terapisi atölyelerinde hastaları gözlemledim ve bu atölyelerde etkin rol aldım.
+          - Günaydın toplantılarıyla uzman psikologlar eşliğinde yatan hastaların durumları hakkında bilgi edindim. 
+          - Kapalı, geriatri ve amatem servisinde pek çok hasta ile iletişime geçip onlar ile çeşitli aktiviteler yaptım.
 
   # Education
   education:
@@ -313,8 +322,8 @@ params:
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/merveaydar
+      linkedin: https://linkedin.com/in/merveaydar
+      #twitter: https://twitter.com
+      instagram: https://www.instagram.com/uzm.psk.merveaydar/
+      #facebook: https://facebook.com
